@@ -1,0 +1,11 @@
+{
+    "git.ignoreLimitWarning": true,
+
+    "mongoRunner": {
+        "connections": [
+            {
+                "url": "mongodb://192.168.33.10:27017/todo"
+            }
+        ]
+    }
+}
